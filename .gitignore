@@ -2,3 +2,4 @@
 .RData
 .ipynb_checkpoints
 venv/
+data
