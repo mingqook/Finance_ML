@@ -4,3 +4,5 @@
 venv/
 data
 .DS_Store
+data_R
+data_p
